@@ -1,0 +1,84 @@
+<!--
+
+  Copyright 2015 Mo McRoberts.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+-->
+<?xml version="1.0" encoding="utf-8" ?>
+<colorscheme>
+	<color>
+		<name>base03</name>
+		<lab l="15" a="-12" b="-12" />
+	</color>
+	<color>
+		<name>base02</name>
+		<lab l="20" a="-12" b="-12" />
+	</color>
+	<color>
+		<name>base01</name>
+		<lab l="45" a="-7" b="-7" />
+	</color>
+	<color>
+		<name>base00</name>
+		<lab l="50" a="-7" b="-7" />
+	</color>
+	<color>
+		<name>base0</name>
+		<lab l="60" a="-6" b="-3" />
+	</color>
+	<color>
+		<name>base1</name>
+		<lab l="65" a="-5" b="-2" />
+	</color>
+	<color>
+		<name>base2</name>
+		<lab l="92" a="0" b="10" />
+	</color>
+	<color>
+		<name>base3</name>
+		<lab l="97" a="0" b="10" />
+	</color>
+	<color>
+		<name>yellow</name>
+		<lab l="60" a="10" b="65" />
+	</color>
+	<color>
+		<name>orange</name>
+		<lab l="50" a="50" b="55" />
+	</color>
+	<color>
+		<name>red</name>
+		<lab l="50" a="65" b="45" />
+	</color>
+	<color>
+		<name>magenta</name>
+		<lab l="50" a="65" b="-5" />
+	</color>
+	<color>
+		<name>violet</name>
+		<lab l="50" a="15" b="-45" />
+	</color>
+	<color>
+		<name>blue</name>
+		<lab l="55" a="-10" b="-45" />
+	</color>
+	<color>
+		<name>cyan</name>
+		<lab l="60" a="-35" b="-5" />
+	</color>
+	<color>
+		<name>green</name>
+		<lab l="60" a="-20" b="65" />
+	</color>
+</colorscheme>
